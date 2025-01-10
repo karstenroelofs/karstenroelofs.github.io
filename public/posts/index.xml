@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 10 Jan 2025 14:06:40 +0100</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;h2 id=&#34;you-have-found-the-personal-webpage-of-karsten-roelofs&#34;&gt;You have found the personal webpage of Karsten Roelofs&lt;/h2&gt;&#xA;&lt;p&gt;At the moment, this site is still under construction; come back later to see more.&lt;/p&gt;&#xA;&lt;p&gt;{{ giphy vR1dPIYzQmkRzLZk2w }}&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
